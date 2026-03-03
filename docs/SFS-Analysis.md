@@ -11,5 +11,5 @@
 
 ENSO Index                 |  ENSO Saturation
 :-------------------------:|:-------------------------:
-![](../static/index.png)   |  ![](../static/saturation.png)
+![enso-index](../static/index.png =330x)   |  ![saturation](../static/saturation.png =330x)
     
