@@ -1,4 +1,9 @@
 # Seasonal Forecast System (SFS)
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 
 |                |        |
 |--------------------------|-------------------------|
