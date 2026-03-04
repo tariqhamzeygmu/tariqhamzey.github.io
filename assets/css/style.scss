@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 .wrapper {
   max-width: calc(100vw - 200px);
 }
+@import "{{ site.theme }}";
