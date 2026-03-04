@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: UFS Model Evaluation
+layout: single
+classes: wide
 # description: SFS-Analysis<br>S2S-Analysis<br>MRW-Analysis
