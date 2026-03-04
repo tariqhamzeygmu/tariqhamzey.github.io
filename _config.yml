@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+logo: ./static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png
 title: UFS Model Evaluation
 classes: wide
 # description: SFS-Analysis<br>S2S-Analysis<br>MRW-Analysis
