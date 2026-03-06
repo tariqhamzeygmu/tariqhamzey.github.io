@@ -1,10 +1,4 @@
-theme: minima
-#minima:
-#  nav_pages:
-#    - SFS-Analysis.md
-#    - S2S-Analysis.md
-#    - MRW-Analysis.md
-#    - ./docs/about.md
 title: UFS Model Evaluation Dashboard
-# logo: ./static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png
-description: asdf
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
