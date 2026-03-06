@@ -6,6 +6,6 @@ minima:
     - MRW-Analysis.md
     # - ./docs/about.md
 title: UFS Model Evaluation Dashboard
-# logo: ./static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png
+logo: ./static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png
 # title: UFS Model Evaluation
 # description: SFS-Analysis<br>S2S-Analysis<br>MRW-Analysis
