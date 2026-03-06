@@ -1,4 +1,4 @@
-## charts:
+# Seasonal Forecast System (SFS)
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
 |--------------------------|-------------------------|
