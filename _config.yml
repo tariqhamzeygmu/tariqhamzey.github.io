@@ -1,10 +1,10 @@
 theme: minima
 minima:
   nav_pages:
-    - SFS-Analysis.md
-    - S2S-Analysis.md
-    - MRW-Analysis.md
-    - about.md
+    - ./docs/SFS-Analysis.md
+    - ./docs/S2S-Analysis.md
+    - ./docs/MRW-Analysis.md
+    - ./docs/about.md
 title: UFS Model Evaluation Dashboard
 # logo: ./static/UFS-Logo-RGB-2csolidshorizontal-72dpi.png
 # title: UFS Model Evaluation
