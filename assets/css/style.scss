@@ -5,3 +5,11 @@ a:hover {
     font-weight: inherit; /* or 'normal' */
     text-decoration: underline; /* Optional: keep underline */
 }
+
+header.page-header {
+  padding-top: 10px;    /* Adjust top padding to your desired size */
+  padding-bottom: 10px; /* Adjust bottom padding to your desired size */
+  /* You may also need to adjust font size and line height */
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
