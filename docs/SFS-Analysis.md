@@ -2,7 +2,7 @@
 
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
 |--------------------------|-------------------------|
-| <img src="../static/index.png" alt="enso-index" width="330" style="border: 1px solid black"> | <img src="../static/saturation.png" alt="enso-rmse" width="330" style="border: 1px solid black"> |
+| <img src="../static/index.png" alt="enso-index" width="330" style="border: 1px solid black"> <br> Github:<br>[ens](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-ens_means.ipynb) [baseline](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-baseline.ipynb) [beta01](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-beta.0.1.ipynb) [c96beta01](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-c96_beta.0.1.ipynb) [cpcics](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-cpc_ics.ipynb)<br><br>Binder: <br><br>Colab: | <img src="../static/saturation.png" alt="enso-rmse" width="330" style="border: 1px solid black"> |
 
 
 
