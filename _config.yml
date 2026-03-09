@@ -19,3 +19,7 @@ description: This website displays community driven analysis of reforecasts with
 #   - title: UFS-Analysis GitHub Repository
 #     icon: github
 #     url: "https://github.com/ufs-community/ufs-analysis/tree/sfs-analysis"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
