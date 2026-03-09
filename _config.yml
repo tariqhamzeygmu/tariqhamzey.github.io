@@ -1,6 +1,6 @@
 title: 'UFS Model Evaluation Dashboard'
 # theme: minima
-remote_theme: jekyll/minima@v2.5.1
+remote_theme: jekyll/minima@v3.0
 minima:
   skins: classic
 
