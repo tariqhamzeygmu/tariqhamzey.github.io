@@ -1,17 +1,20 @@
 title: 'UFS Model Evaluation Dashboard'
 # theme: minima
-remote_theme: jekyll/minima@v2.5.2
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# set up remote_theme
+remote_theme: jekyll/minima@bf9ef98
+
 minima:
   skins: classic
 
 author:
   name: Cristiana Stan
   email: cstan@gmu.edu
-  
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
   
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
 
