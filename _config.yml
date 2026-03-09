@@ -2,8 +2,6 @@ title: 'UFS Model Evaluation Dashboard'
 # theme: minima
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-remote-theme
 
 # set up remote_theme
