@@ -10,14 +10,3 @@ a:hover {
 a {
   color: #47975D;
 }
-
-header.page-header {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  font-size: 1rem;
-  line-height: 0.1;
-  background-image: linear-gradient(90deg, #F48322, #F04135);
-}
-.btn { /* Remove homepage button, and all buttons (we can survive without buttons) */
-  display: none !important;
-}
