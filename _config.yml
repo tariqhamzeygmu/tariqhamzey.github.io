@@ -1,5 +1,5 @@
 title: 'UFS Model Evaluation Dashbaord'
-theme: minima
+remote_theme: jekyll/minima@1e8a445
 
 author:
   name: Cristiana Stan
@@ -10,3 +10,8 @@ plugins:
   - jekyll-seo-tag
   
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
+
+social_links:
+  - title: Minima Theme repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/minima"
