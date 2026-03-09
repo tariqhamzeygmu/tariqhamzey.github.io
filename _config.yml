@@ -1,6 +1,12 @@
 title: 'UFS Model Evaluation Dashbaord'
 theme: minima
+
 author:
   name: Cristiana Stan
   email: cstan@gmu.edu
+  
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
