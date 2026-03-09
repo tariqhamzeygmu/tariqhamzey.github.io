@@ -2,6 +2,10 @@
 title: "Seasonal Forecast System (SFS)"
 ---
 
+<details>
+  <summary>Click to expand the table</summary>
+
+
 |  <b>ENSO Index</b>             |   <b>ENSO RMSE</b>    |
 | :---: | :---: |
 | <img src="../static/index.png" alt="enso-index" width="330" style="border: 1px solid black"><br> Github:<br>[ens_means](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-ens_means.ipynb), [baseline](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-baseline.ipynb), [beta.0.1](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-beta.0.1.ipynb),<br> [c96_beta.0.1](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-c96_beta.0.1.ipynb), [cpc_ics](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-index-cpc_ics.ipynb)<br><br>Binder: <br><br>Colab: | <img src="../static/saturation.png" alt="enso-rmse" width="330" style="border: 1px solid black"> <br> Github:<br>[rmse](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-rmse.ipynb)<br><br><br>Binder: <br><br>Colab: |
@@ -10,3 +14,4 @@ title: "Seasonal Forecast System (SFS)"
 |  <b>Teleconnections Rossby Wave Source</b>             |  |
 | <img src="../static/rws.png" alt="enso-index" width="330" style="border: 1px solid black"><br> Github:<br>[UFSvsUFS](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-teleconnections-rws-UFSvsUFS.ipynb), [baseline](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-teleconnections-rws-baseline.ipynb), [beta.0.1](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-teleconnections-rws-beta.0.1.ipynb),<br> [c96_beta.0.1](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-teleconnections-rws-c96_beta.0.1.ipynb), [cpc_ics](https://github.com/tariqhamzeygmu/ufs_model_evaluation/blob/develop/notebooks/enso-teleconnections-rws-cpc_ics.ipynb)<br><br>Binder: <br><br>Colab: |  |
 
+</details>
