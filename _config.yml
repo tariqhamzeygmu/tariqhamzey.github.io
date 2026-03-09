@@ -12,6 +12,6 @@ plugins:
 description: This website displays community driven analysis of reforecasts with experimental versions of UFS applications.
 
 social_links:
-  - title: Minima Theme repository at GitHub
+  - title: UFS-Analysis GitHub Repository
     icon: github
     url: "https://github.com/ufs-community/ufs-analysis/tree/sfs-analysis"
