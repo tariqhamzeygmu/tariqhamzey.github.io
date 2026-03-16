@@ -5,4 +5,4 @@ This dashboard focuses on three UFS applications:
 - <b>Sub-seasonal to Seasonal</b> (S2S): <b>[documentation](https://wpo.noaa.gov/s2s/ "https://wpo.noaa.gov/s2s/")</b>
 - <b>Medium Range Weather</b> (MRW): <b>[documentation](https://ufs.epic.noaa.gov/application-release-archive/medium-range-weather/ "https://ufs.epic.noaa.gov/application-release-archive/medium-range-weather/")</b>
 
-Learn more about the <b>Unified Forecast System [here](https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system "https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system")</b>.
+Learn more about the <b>Unified Forecast System [here](https://ufs.epic.noaa.gov/ "https://ufs.epic.noaa.gov/")</b>.
