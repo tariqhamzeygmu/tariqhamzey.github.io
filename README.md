@@ -3,6 +3,6 @@ Welcome the UFS Model Evaluation Dashboard.  Here you can explore community-driv
 Learn more about the <b>Unified Forecast System [here](https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system)</b>.
 
 This web page focuses on three UFS applications:
-- Seasonal Forecast System: [documentation](https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system)
-- Sub-seasonal to Seasonal: [documentation](https://vlab.noaa.gov/web/ufs-r2o/ufs-s2s-applications-team)
-- Medium Range Weather: [documentation](https://ufs.epic.noaa.gov/application-release-archive/medium-range-weather/)
+- <b>Seasonal Forecast System (SFS)</b>: <b>[documentation](https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system)</b>
+- <b>Sub-seasonal to Seasonal (S2S)</b>: <b>[documentation](https://vlab.noaa.gov/web/ufs-r2o/ufs-s2s-applications-team)</b>
+- <b>Medium Range Weather (MRW)</b>: <b>[documentation](https://ufs.epic.noaa.gov/application-release-archive/medium-range-weather/)</b>
