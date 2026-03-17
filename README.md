@@ -1,4 +1,6 @@
-Welcome the UFS Model Evaluation Dashboard.  Here, you can explore community-driven analysis of reforecasts with experimental versions of UFS applications.
+Welcome the UFS Model Evaluation Dashboard!<br>
+
+Here, you can explore community-driven analysis of reforecasts with experimental versions of UFS applications.
 
 This dashboard focuses on three UFS applications:
 - <b>Seasonal Forecast System</b> (SFS): <b>[documentation](https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system "https://vlab.noaa.gov/web/osti-modeling/seasonal-forecast-system")</b>
