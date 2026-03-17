@@ -1,12 +1,3 @@
 ---
 ---
 @import "{{ site.theme }}";
-
-a:hover {
-    font-weight: inherit; /* or 'normal' */
-    text-decoration: underline; /* Optional: keep underline */
-    color: #DD5741;
-}
-a {
-    color: #47975D;
-}
